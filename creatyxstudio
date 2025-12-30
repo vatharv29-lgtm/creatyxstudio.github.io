@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Creatyx Studio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background: #f8f9fa;
+    }
+    h1 { color: #222; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Creatyx Studio</h1>
+  <p>Turning Ideas into Powerful Visuals</p>
+  <p>Branding • Design • Creative Solutions</p>
+  <p>Email: contact@yourmail.com</p>
+</body>
+</html>
